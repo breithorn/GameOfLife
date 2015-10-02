@@ -1,4 +1,4 @@
-A simple implementation of Tower of Hanoi written in JavaScript and HTML4.
+A simple implementation of Game of Life written in JavaScript and HTML4.
 
 No HTML5 is used.
 
